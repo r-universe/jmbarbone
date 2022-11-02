@@ -1,5 +1,9 @@
 [
   {
+    "package": "fuj",
+    "oncran": true
+  },
+  {
     "package": "mark",
     "oncran": true
   }
