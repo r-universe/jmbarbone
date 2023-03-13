@@ -13,3 +13,8 @@
 	url = https://github.com/jmbarbone/mark
 	shallow = true
 	registered = true
+[submodule "scribe"]
+	path = scribe
+	url = https://github.com/jmbarbone/scribe
+	shallow = true
+	registered = true

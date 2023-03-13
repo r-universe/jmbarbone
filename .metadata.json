@@ -6,5 +6,9 @@
   {
     "package": "mark",
     "oncran": true
+  },
+  {
+    "package": "scribe",
+    "oncran": true
   }
 ]
