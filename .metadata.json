@@ -1,6 +1,6 @@
 [
   {
-    "package": "scribe",
+    "package": "fuj",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "fuj",
+    "package": "scribe",
     "oncran": true
   }
 ]
