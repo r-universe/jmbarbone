@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fuj"]
-	path = fuj
-	url = https://github.com/jmbarbone/fuj
+[submodule "scribe"]
+	path = scribe
+	url = https://github.com/jmbarbone/scribe
 	shallow = true
 	registered = true
 [submodule "mark"]
@@ -13,8 +13,8 @@
 	url = https://github.com/jmbarbone/mark
 	shallow = true
 	registered = true
-[submodule "scribe"]
-	path = scribe
-	url = https://github.com/jmbarbone/scribe
+[submodule "fuj"]
+	path = fuj
+	url = https://github.com/jmbarbone/fuj
 	shallow = true
 	registered = true
