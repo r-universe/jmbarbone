@@ -1,0 +1,16 @@
+[
+  {
+    "package": "cnd",
+    "url": "https://github.com/jmbarbone/cnd",
+    "via": ["mark"],
+    "branch": "v0.1.1.9002",
+    "from": "mark"
+  },
+  {
+    "package": "fuj",
+    "url": "https://github.com/jmbarbone/fuj",
+    "via": ["mark"],
+    "branch": "v0.2.2.9010",
+    "from": "mark"
+  }
+]
